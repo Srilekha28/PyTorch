@@ -1,7 +1,7 @@
 # PyTorch
-In this project I have explored and identified the Design and Security Patterns followed by the JIT compiler module in PyTorch Library.
+In this project I have **explored and identified the Design and Security Patterns followed by the JIT compiler module in PyTorch Library**.
 
-I have also added a new feature where we can visualize the difference between PyTorch and TorchScript runtimes.
+**I have also added a new feature where we can visualize the difference between PyTorch and TorchScript runtimes.**
 
 The proposed feature will allow the user to find out the difference between pyTorch runtime and TorchScript runtimes.
 
